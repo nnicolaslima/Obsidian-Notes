@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f0eb80319d1e844",
+  "active": "a2d53189a180f3ce",
   "lastOpenFiles": [
-    "remote-blog/Untitled.md",
-    "remote-blog/Farlands",
     "remote-blog/Base.base",
-    "remote-blog/Farlands/Farlands- Terras Distantes.md"
+    "remote-blog/Untitled.md",
+    "Welcome.md",
+    "remote-blog/Farlands/Farlands- Terras Distantes.md",
+    "remote-blog/Farlands"
   ]
 }
